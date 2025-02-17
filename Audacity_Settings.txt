@@ -1,0 +1,18 @@
+Audacity:
+clip fix: 80/ -10
+bass & treble: 0.5/ 5.0/ 6.0
+high pass: 300/ 12
+compressor: -12 Tr/ -40 N.F./ R 2:1/ A.T. 0.20/ R.T. 1.0
+low pass: default
+
+Amp:
+phat: on
+bass: 0
+middle: 0
+treble: 100
+
+Pedal (Boost):
+level: 50
+treble: 100
+gain: 50
+bass: 0
